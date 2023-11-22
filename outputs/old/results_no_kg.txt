@@ -1,0 +1,1146 @@
+### Plots:
+the player freed Elder Josimon from the slavers: he had recovered the Passkey Ember from them, but they captured him
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A passkey to the past
+Objective: Find the passkey ember
+Tasks: 
+ Find the passkey ember
+
+
+### End
+----------------------------------------
+### Plots:
+Valdr, Ari and Niels tracked a bear to Moss Mother Cavern: Spriggans appeared and killed Ari and Niels
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Moss mother cavern
+Objective: Help valdr, niels and spriggans
+Tasks: 
+ Find moss mother cavern
+
+
+### End
+----------------------------------------
+### Plots:
+Garren Windspear left his home in the player's care
+Jierdan Firkraag and his hooligans kidnapped Garren Windspear's daughter from Garren Windspear's home
+the player will travel unmolested, because Garren Windspear pleaded the player's virtue at the Radiant Heart
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The windspear family
+Objective: Find garren windspear's daughter
+Tasks: 
+ Travel to the windspear family estate
+ Find garren windspear's daughter
+
+
+### End
+----------------------------------------
+### Plots:
+the player told Taarie that the player is going to the Blue Palace
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The player's quest
+Objective: Kill the dragon priest of the blades
+Tasks: 
+ Kill the dragon priest of the blades
+
+
+### End
+----------------------------------------
+### Plots:
+the player is torturing their prisoner
+the player's prisoner has hidden her inheritance
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A family matter
+Objective: Find your prisoner's inheritance
+Tasks: 
+ Find your prisoner's inheritance
+
+
+### End
+----------------------------------------
+### Plots:
+Isran will address the player's fellow Dawnguard members before leaving for Castle Volkihar: the Dawnguard has gained the upper hand in the fight against the vampires
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The quest related to the above information is as follows.
+Objective: Find isran's helmet
+Tasks: 
+ Go to castle volkihar
+ Find isran's helmet
+
+
+### End
+----------------------------------------
+### Plots:
+the player asked Gilgondorin about the Watchman
+Gilgondorin pinpoints where the Watchman appears on the player's map
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Watchman
+Objective: Find the watchman
+Tasks: 
+ Go to the watchman's tower
+
+
+### End
+----------------------------------------
+### Plots:
+Martin needs the blood of a Divine for the ritual to open the portal to Camoran's Paradise in addition to the first item, the blood of a Daedra
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The ritual
+Objective: Obtain the blood of a divine
+Tasks: 
+ Find a way to get the blood of a divine
+
+
+### End
+----------------------------------------
+### Plots:
+disciples of Kynareth used to travel far to hear the winds of Kynareth in the Gildergreen's branches
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The gildergreen
+Objective: Find the gildergreen
+Tasks: 
+ Find the gildergreen
+
+
+### End
+----------------------------------------
+### Plots:
+the player has summoned Boethia: the player is not a worshiper of Boethia
+Boethia shall open a portal for the player to one of his realms in Oblivion
+if the player fails the Tournament of Ten Bloods, the player's soul belongs to Boethia
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The quest for the soul of a hero
+Objective: Complete the tournament of ten bloods
+Tasks: 
+ Find a way to win the tournament of ten bloods
+
+
+### End
+----------------------------------------
+### Plots:
+Ordrak's Heart wreaking havoc
+the Guardian wants the player to go to the Ossean Wastes
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Ordrak's heart
+Objective: Find the heart of ordrak the heartforged
+Tasks: 
+ Find the heart of ordrak the heartforged
+
+
+### End
+----------------------------------------
+### Plots:
+mercenaries were petrified while trying to break into the home of Ramazith: Ramazith sold the mercenaries to an art collector
+Degrodel gives the player six scrolls of stone to flesh to unpetrify the mercenaries
+one of the mercenaries has the Helm of Balduran
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The helm of balduran
+Objective: Deliver the helm of balduran to degrodel
+Tasks: 
+ Retrieve the helm of balduran
+
+
+### End
+----------------------------------------
+### Plots:
+the player asked Oengul War-Anvil whether he is the castle blacksmith
+Oengul War-Anvil is working an a sword: the Jarl of Windhelm wants it to look like High Queen Freydis' sword
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A sword for the jarl
+Objective: Find the blade of a legendary sword for the jarl
+Tasks: 
+ Find the blade of a legendary sword for the jarl
+
+
+### End
+----------------------------------------
+### Plots:
+Beitild and her ex-husband run competing mining operations in Dawnstar
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The mining competition
+Objective: Help beitild mine gold ore
+Tasks: 
+ Go to dawnstar.
+ Find beitild.
+
+
+### End
+----------------------------------------
+### Plots:
+Carl wants knowledge
+the player is a friend of Carl
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A book for carl
+Objective: Get a book for carl
+Tasks: 
+ Go to the bookshelf in the hall of the dead.
+ Get a book from the bookshelf.
+
+
+### End
+----------------------------------------
+### Plots:
+Senna wakes the player up: the player does not remember anything about coming to the Temple of Dibella, blathering about marriage or a goat, and throwing trash all over the Temple of Dibella
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The goddess of love
+Objective: Help senna get a ring back
+Tasks: 
+ Find senna's ring
+
+
+### End
+----------------------------------------
+### Plots:
+the player asked Calcelmo to let the player inside his Dwemer museum: the Dwemer museum is a private place where Calcelmo can catalog his research
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Dwemer curiosities
+Objective: Calcelmo wants to catalog his dwemer research
+Tasks: 
+ Find a dwemer artifact in a dwemer ruin
+
+
+### End
+----------------------------------------
+### Plots:
+the gatekeeper won't let Farthing go and get her doll
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The doll's revenge
+Objective: Get farthing's doll back from the gatekeeper
+Tasks: 
+ Find farthing's doll
+
+
+### End
+----------------------------------------
+### Plots:
+Frida's husband died while searching for the Ring of Pure Mixtures
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A ring of pure mixtures
+Objective: Find the ring of pure mixtures
+Tasks: 
+ Obtain the ring of pure mixtures
+
+
+### End
+----------------------------------------
+### Plots:
+Noster Eagle-Eye tracked down all the places in the wilds that were causing people trouble: he lost his helmet in one of the old caves
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The helmet of the eagle-eye
+Objective: Bring the helmet of noster eagle-eye back to him
+Tasks: 
+ Find the helmet of noster eagle-eye
+
+
+### End
+----------------------------------------
+### Plots:
+Firebead Elvenhair left his identify scroll to Tethtoril
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The quest related to the above information is as follows.
+Objective: Return firebead elvenhair's identity scroll to tethtoril
+Tasks: 
+ Return to tethtoril
+
+
+### End
+----------------------------------------
+### Plots:
+Idgrod gets lost in her visions
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The lost queen
+Objective: Find idgrod
+Tasks: 
+ Travel to the idgrod's shrine.
+
+
+### End
+----------------------------------------
+### Plots:
+Barthel Gernand and his family ran into goblin war parties northwest of here while starting to build a new settlement
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The goblin war parties
+Objective: Kill the goblin war parties
+Tasks: 
+ Defeat the goblin war parties
+
+
+### End
+----------------------------------------
+### Plots:
+Gunmar and Sorine Jurard think that the Dawnguard are going to need Florentius to help against the vampires
+Florentius had regular contact with the Vigilants: Isran has kept track of the Vigilants
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A dawnguard quest
+Objective: Find florentius baenius
+Tasks: 
+ Find florentius baenius
+
+
+### End
+----------------------------------------
+### Plots:
+Paul wants comfort
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The quest related to the above information is as follows.
+Objective: Help paul
+Tasks: 
+ Get some comfort from the comfort shop
+
+
+### End
+----------------------------------------
+### Plots:
+Burz gro-Khash has one more contract for the player
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Burz gro-khash's last job
+Objective: Steal a necklace from a wealthy merchant
+Tasks: 
+ Find a wealthy merchant
+
+
+### End
+----------------------------------------
+### Plots:
+the player told Garan Marethi that Harkon wants the Bloodstone Chalice without addressing Harkon properly as Lord Harkon
+Harkon has owned the Bloodstone Chalice for a long time
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Bloodstone chalice
+Objective: Bring the bloodstone chalice to lord harkon
+Tasks: 
+ Head to the shrine of hircine
+ Find the bloodstone chalice
+
+
+### End
+----------------------------------------
+### Plots:
+Korgan Bloodaxe and his fellows were on a mission to obtain the Book of Kaza for a book collector
+Korgan Bloodaxe and his fellows had a heated argument: only Korgan Bloodaxe remained alive afterwards
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The book of kaza
+Objective: Retrieve the book of kaza from korgan bloodaxe's body
+Tasks: 
+ Find korgan bloodaxe's body
+
+
+### End
+----------------------------------------
+### Plots:
+Lord Taldimut has been studying the crests
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The crest of the dragon
+Objective: Kill lord taldimut
+Tasks: 
+ Kill lord taldimut
+
+
+### End
+----------------------------------------
+### Plots:
+Kate wants serenity
+Kate has heard that the player helps people
+Kate gives the player a map that points the player to the buried treasure
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Kate's quest
+Objective: Find the buried treasure
+Tasks: 
+ Find the buried treasure
+
+
+### End
+----------------------------------------
+### Plots:
+Danno bought a love potion from Wallace at the market square: Danno gave Pala the love potion
+Pala drank the love potion and collapsed
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Love is in the air
+Objective: Find out what happened to pala
+Tasks: 
+ Find pala
+
+
+### End
+----------------------------------------
+### Plots:
+Umbacano has invited the player here to his house: the ancient Ayleid statue that the player recently sold cheap to an anonymous merchant is placed on a table
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The ayleid statue
+Objective: Return umbacano's ayleid statue to him
+Tasks: 
+ Go to umbacano's house.
+ Return umbacano's ayleid statue to him
+
+
+### End
+----------------------------------------
+### Plots:
+Savilla's Stone has revealed that the Gray Fox needs something special for his plans: the Arrow of Extrication
+the player may kill Fathis Aren, but not in the castle of Bravil
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The arrow of extrication
+Objective: Acquire an arrow of extrication
+Tasks: 
+ Find the arrow of extrication
+
+
+### End
+----------------------------------------
+### Plots:
+Kyr's bandit gang dug up Frostmere Crypt: Kyr took the Pale Blade from the monument within
+Ra'jirr keeps muttering about a Pale Lady, who is going to kill all of Kyr's bandits if they do not return the Pale Blade
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Return the pale blade
+Objective: Return the pale blade to the monument in frostmere crypt
+Tasks: 
+ Return the pale blade to the monument in frostmere crypt
+
+
+### End
+----------------------------------------
+### Plots:
+the Professor sent the player after the power source in the Scrapworks: the Officer and his troop are on the same mission
+the Officer sent his troop to the Abandoned Sawmill: he has not heard from them
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The officer's troop
+Objective: Find the officer's troop
+Tasks: 
+ Find the officer's troop
+
+
+### End
+----------------------------------------
+### Plots:
+Lou wants comfort
+the player is a known villain
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A comforting companion
+Objective: Get a comforting companion for lou
+Tasks: 
+ Bring lou a comforting companion
+
+
+### End
+----------------------------------------
+### Plots:
+the player had to find Maglir before
+Maglir had an easy contract for a local mage in Bravil: he has not reported to the client at all
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The mage's apprentice
+Objective: Find a mage's apprentice
+Tasks: 
+ Travel to bravil
+ Find a mage's apprentice
+
+
+### End
+----------------------------------------
+### Plots:
+the player has worked for Azzan before
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A new quest
+Objective: Deliver a message to the bard of azzan
+Tasks: 
+ Find a bard of azzan
+
+
+### End
+----------------------------------------
+### Plots:
+Olivia wants reputation
+Olivia gives the player seeds that can be used to tame a parrot
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A pet for olivia
+Objective: Find a parrot for olivia
+Tasks: 
+ Find a parrot
+
+
+### End
+----------------------------------------
+### Plots:
+the Jarl of Winterhold thinks that Malur Seloth has some connection with the College of Winterhold: he goes easy on Malur Seloth
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The jarl's request
+Objective: Investigate malur seloth
+Tasks: 
+ Find out why malur seloth is being treated so leniently
+
+
+### End
+----------------------------------------
+### Plots:
+Count Hassildor of Skingrad contacted the Council of Mages: he has important information
+Count Hassildor has asked for the player, specifically
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Count hassildor's information
+Objective: Find count hassildor's information
+Tasks: 
+ Find count hassildor's information
+
+
+### End
+----------------------------------------
+### Plots:
+the player told Alvor that there was a dragon in Helgen
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The dragon's bane
+Objective: Kill a dragon
+Tasks: 
+ Travel to helgen
+ Find the dragon
+
+
+### End
+----------------------------------------
+### Plots:
+the player has summoned Fade: the player wants to enter Cacklespit's Realm
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The cacklespit
+Objective: Enter cacklespit's realm
+Tasks: 
+ Defeat cacklespit
+
+
+### End
+----------------------------------------
+### Plots:
+Caleb wants comfort
+the player is a known villain
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The quest related to the above information is as follows.
+Objective: Kill caleb
+Tasks: 
+ Travel to caleb's house
+
+
+### End
+----------------------------------------
+### Plots:
+Delon does not have any money
+Delon was sent to find someone who could help his home village Imnesvale: terrible beasts have been seen out in the hills
+Umar herself might have returned
+Minister Lloyd can tell everything else
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Delon's home
+Objective: Find a way to help the village of imnesvale
+Tasks: 
+ Find a way to kill the beasts
+
+
+### End
+----------------------------------------
+### Plots:
+the Jarl's men will arrest the player if they find the player in Anuriel's private quarters
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A private matter
+Objective: Find out what happened to anuriel's brother
+Tasks: 
+ Find anuriel's brother
+
+
+### End
+----------------------------------------
+### Plots:
+Matt wants comfort
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A place to stay
+Objective: Find matt a place to stay
+Tasks: 
+ Find a place for matt to stay
+
+
+### End
+----------------------------------------
+### Plots:
+the rings of blood magic increase the abilities of the player's vampiric powers: Molag Bal supposedly gave the rings to vampires
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The blood of the vampire
+Objective: Retrieve the blood of the vampire
+Tasks: 
+ Find the vampire's blood
+
+
+### End
+----------------------------------------
+### Plots:
+the player and Ralof are making their escape together: the player is a Nord
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The prisoner's dilemma
+Objective: Kill ralof
+Tasks: 
+ Kill ralof
+
+
+### End
+----------------------------------------
+### Plots:
+Elder Othreloth gives the player a key that opens the door to the Ancestral Tomb
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The ancestral tomb
+Objective: Find the ancestral tomb
+Tasks: 
+ Find the ancestral tomb
+
+
+### End
+----------------------------------------
+### Plots:
+Flydian was sent by the High Merchant
+druids are suspected of the animal attacks
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The druidic threat
+Objective: Help the high merchant by finding the druidic threat
+Tasks: 
+ Go to flydian's house
+
+
+### End
+----------------------------------------
+### Plots:
+Will wants comfort
+the player is an enemy of Will
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A new pair of boots
+Objective: Find will a new pair of boots
+Tasks: 
+ Find a pair of boots for will
+
+
+### End
+----------------------------------------
+### Plots:
+the player is a Silencer of the Dark Brotherhood
+as the player can see, the Black Hand have dealt with Lucien Lachance
+Lucien Lachance tricked the player to kill the Black Hand off: the player killed the Listener and the Listener's successor
+Arquen promotes the player to Speaker from Silencer: the player becomes a member of the Black Hand
+there are only five members of the Black Hand, including the player
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The black hand
+Objective: Find the black hand
+Tasks: 
+ Find the black hand members
+
+
+### End
+----------------------------------------
+### Plots:
+the note is addressed toward the player: the player is the Silence of the Dark Brotherhood
+the player assassinated Shaleez for Lucien Lachance
+Alval Uvani is renting a house in Leyawiin
+Alval Uvani's wife hired the Dark Brotherhood to kill her husband: the Morag Tong of Morrowind can't reach Alval Uvani in Cyrodiil
+Alval Uvani suffers from a rare Dunmer condition, a serious allergy to honey: he would suffer from complete paralyzation after drinking honey-based mead
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The poisoned cup
+Objective: Kill alval uvani
+Tasks: 
+ Kill alval uvani
+
+
+### End
+----------------------------------------
+### Plots:
+"Letter from Calcelmo" is addressed toward the player
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The quest related to the above information is as follows.
+Objective: Retrieve a letter from the college of winterhold
+Tasks: 
+ The letter is in the college of winterhold
+
+
+### End
+----------------------------------------
+### Plots:
+pirates have been raiding all along the coast, from Hammerfell to Vvardenfell: the East Empire Company's security forces are limited, and all the mercenaries are tied up in the war
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Pirate trouble
+Objective: Take a ship to hammerfell and investigate the pirate raids
+Tasks: 
+ Find out where the pirates are coming from
+
+
+### End
+----------------------------------------
+### Plots:
+the caravans are notorious for transporting illegal substances
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A caravan of trouble
+Objective: Protect the caravan
+Tasks: 
+ Attack the bandits
+
+
+### End
+----------------------------------------
+### Plots:
+Jarl Elisif has forbidden the burning of King Olaf, a festival put on by the Bards College: to convince Jarl Elisif change her mind, Viarmo wants to read King Olaf's Verse
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The bards of skingrad
+Objective: Steal the book of kings
+Tasks: 
+ Go to skingrad and steal the book of kings from the bards college
+
+
+### End
+----------------------------------------
+### Plots:
+the Alchemist came through the Imperial Camp an hour ago: he went through the Great Door and sealed it behind him
+the Great Door leads to the Clockwork Core
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The great door
+Objective: Find the key to the great door
+Tasks: 
+ Find the key to the great door
+
+
+### End
+----------------------------------------
+### Plots:
+Froki thinks that the Divines are impostor gods
+Froki gives the player the symbol of the wolf, the crab and the skeever: this will compel the guardian to appear when the player reaches the guardian's lair
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The guardian's lair
+Objective: Find the guardian's lair
+Tasks: 
+ Head to the guardian's lair
+
+
+### End
+----------------------------------------
+### Plots:
+Benirus Manor belonged to Velwyn's grandfather: Velwyn is selling Benirus Manor because he has pressing matters elsewhere
+the player gets the key to the front door and the deed of ownership after buying Benirus Manor
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The key to the manor
+Objective: Retrieve the key to the manor
+Tasks: 
+ Find the key to the manor
+
+
+### End
+----------------------------------------
+### Plots:
+there is an open grave in Falkreath graveyard: Vighar broke free from the grave
+Dengeir of Stuhn's family is entrusted with keeping Vighar buried: somebody stole the wardstone that kept Vighar in the grave
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The grave of vighar
+Objective: Find the wardstone that keeps vighar in his grave
+Tasks: 
+ Go to falkreath.
+ Find the grave of vighar.
+
+
+### End
+----------------------------------------
+### Plots:
+the Dwemer's greatest achievement has also been their greatest mystery: their instant, unexplainable disappearance
+Arniel Gane tries to find out what happened to the Dwemer though experimentation
+the player brought Arniel Gane Dwemer parts and a soul gem before
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The dwemer experiment
+Objective: Help arniel gane
+Tasks: 
+ Find a dwemer centurion helmet.
+
+
+### End
+----------------------------------------
+### Plots:
+Keldorn's tasks keep him away from home
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The quest related to the above information is as follows.
+Objective: Go to keldorn's house
+Tasks: 
+ Find keldorn's house
+
+
+### End
+----------------------------------------
+### Plots:
+Onmund traded Enthir his amulet, but now Onmund wants his amulet back
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Enthir's amulet
+Objective: Steal enthir's amulet
+Tasks: 
+ Make your way to enthir's house.
+ Find enthir's amulet
+
+
+### End
+----------------------------------------
+### Plots:
+rules for the fistfight: no weapons, no tricks, no magic
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The fistfight
+Objective: Beat kodlak
+Tasks: 
+ Prove your worth by defeating kodlak in a fistfight
+
+
+### End
+----------------------------------------
+### Plots:
+Stormherald Nallabir lost this past tenday's theological debate to a a representative of the Lathanderian temple in the Government District
+the temple of Talos hired Travin to steal a Dawn Ring from the Lathanderian temple
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The dawn ring
+Objective: Steal the dawn ring from the lathanderian temple
+Tasks: 
+ Proceed to the lathanderian temple in the government district
+ Sneak inside the temple
+ Find the dawn ring
+
+
+### End
+----------------------------------------
+### Plots:
+the player has summoned Sanguine
+the Countess is hosting a dinner party
+Sanguine gives the player a spell: the player should use it on the Countess and her guests to liven up the dinner party
+the dinner party is invitation only
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A little party never killed nobody
+Objective: Use sanguine's spell on the countess and her guests
+Tasks: 
+ Go to the countess's dinner party.
+ Find a way to get into the dinner party
+
+
+### End
+----------------------------------------
+### Plots:
+the player is a friend of the Zeraphi
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A quest for the zeraphi
+Objective: Help the zeraphi
+Tasks: 
+ The zeraphi is trying to get a special item, but the owner of the item is refusing to sell it
+
+
+### End
+----------------------------------------
+### Plots:
+guards do not let anyone in the circus tent
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Circus tent
+Objective: Break into the circus tent
+Tasks: 
+ Go to the circus tent.
+
+
+### End
+----------------------------------------
+### Plots:
+the player asked Sorex Vinius who is in charge of Solitude
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The key to the city
+Objective: Find the key to the city
+Tasks: 
+ Go to the palace
+
+
+### End
+----------------------------------------
+### Plots:
+Astrid officially welcomes the player to the Dark Brotherhood
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The dark brotherhood
+Objective: Kill the player
+Tasks: 
+ Go to the player's home
+
+
+### End
+----------------------------------------
+### Plots:
+Modryn Oreyn has one final duty for the player to perform
+everyone is in danger, as long as the Blackwood Company has access to the sap from the Hist Tree
+Ri'Zakar will have the Hist Tree well guarded
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A last request
+Objective: Obtain the sap from the hist tree
+Tasks: 
+ Find a way to get the sap from the hist tree
+
+
+### End
+----------------------------------------
+### Plots:
+the player is a cleric of Lathander, and one of Lathander's favored
+Lara will send the player someone who needs the guidance of Lathander
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The chosen one
+Objective: Help a young man who is not worthy of the name "chosen one"
+Tasks: 
+ Travel to the shrine of lathander.
+ Meet a young man who claims to be the chosen one.
+
+
+### End
+----------------------------------------
+### Plots:
+Muiri has performed the Black Sacrament
+do whatever Muiri wishes, be professional, represent the Dark Brotherhood well, and get the job done
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A test of loyalty
+Objective: Kill muiri
+Tasks: 
+ Travel to skyrim.
+ Find muiri
+
+
+### End
+----------------------------------------
+### Plots:
+Eola assumes that the player is a cannibal
+Eola has been eating the dead people of Markarth
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Eola's cannibalism
+Objective: Prove that eola is not a cannibal
+Tasks: 
+ Search for the body of a dead person
+
+
+### End
+----------------------------------------
+### Plots:
+Guardian of the Wild fears that the Alchemist uses the power of the Guardians to open a portal to the Nether Realm, plunging the world into eternal chaos
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The guardian's quest
+Objective: Kill the alchemist and his apprentices
+Tasks: 
+ Kill the alchemist and his apprentices
+
+
+### End
+----------------------------------------
