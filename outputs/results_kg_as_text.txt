@@ -1,0 +1,1675 @@
+### Background:
+Elder Josimon is a man from the Enclave. Elder Josimon is a character.  Elder Josimon is present in Slavers' Camp.
+Slavers' Camp is home of the slavers who have been harassing the Estherians, in the Frosted Hills. Slavers' Camp is a location.  Slavers' Camp is connected to Frosted Hills.
+Frosted Hills is hills. Frosted Hills is a location. 
+
+
+### Plots:
+the player freed Elder Josimon from the slavers: he had recovered the Passkey Ember from them, but they captured him
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The key to the enclave
+Objective: Find the passkey ember
+Tasks: 
+ Find the passkey ember
+
+
+### End
+----------------------------------------
+### Background:
+Valdr is a hunter from Falkreath. Valdr is a character.  Valdr is present in outside Moss Mother Cavern.
+outside Moss Mother Cavern is outside Moss Mother Cavern. outside Moss Mother Cavern is a location.  outside Moss Mother Cavern is connected to Falkreath.
+Falkreath is a town. Falkreath is a location.  Falkreath is connected to Moss Mother Cavern.
+Moss Mother Cavern is a dangerous cave. Moss Mother Cavern is a location. 
+Ari is Valdr's dead hunter friend, a woman. Ari is a character.  Ari is present in Moss Mother Cavern.
+Niels is Valdr's dead hunter friend, a man. Niels is a character.  Niels is present in Moss Mother Cavern.
+Spriggans is [Enemy] hostile beasts. Spriggans is a character.  Spriggans is present in outside Moss Mother Cavern.
+
+
+### Plots:
+Valdr, Ari and Niels tracked a bear to Moss Mother Cavern: Spriggans appeared and killed Ari and Niels
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Moss mother
+Objective: Kill the spriggans
+Tasks: 
+ Kill the spriggans.
+
+
+### End
+----------------------------------------
+### Background:
+Garren Windspear is a man experiencing strong emotions. Garren Windspear is a character.  Garren Windspear is present in Garren Windspear's home. Garren Windspear is present in the ruins in the northeast.
+Garren Windspear's home is Garren Windspear's home. Garren Windspear's home is a location. 
+the ruins in the northeast is the ruins in the northeast. the ruins in the northeast is a location. 
+Jierdan Firkraag is a man who hates Garren Windspear. Jierdan Firkraag is a character.  Jierdan Firkraag is present in the ruins in the northeast.
+
+
+### Plots:
+Garren Windspear left his home in the player's care
+Jierdan Firkraag and his hooligans kidnapped Garren Windspear's daughter from Garren Windspear's home
+the player will travel unmolested, because Garren Windspear pleaded the player's virtue at the Radiant Heart
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A father's pride
+Objective: Rescue garren windspear's daughter
+Tasks: 
+ Proceed to the ruins in the northeast.
+
+
+### End
+----------------------------------------
+### Background:
+Taarie is a tailor. Taarie is a character.  Taarie is present in Radiant Raiment.
+Radiant Raiment is a clothing store. Radiant Raiment is a location.  Radiant Raiment is connected to Blue Palace. Radiant Raiment is connected to Solitude.
+Solitude is a city. Solitude is a location. 
+Blue Palace is Elisif's palace. Blue Palace is a location. 
+Elisif is the female Jarl of Solitude. Elisif is a character.  Elisif is present in Blue Palace.
+
+
+### Plots:
+the player told Taarie that the player is going to the Blue Palace
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Clothes make the man
+Objective: Buy some clothes for Elisif
+Tasks: 
+ Go to solitude.
+
+
+### End
+----------------------------------------
+### Background:
+Solitude is a city. Solitude is a location.  Solitude is connected to the marsh south of Solitude.
+the marsh south of Solitude is the marsh south of Solitude. the marsh south of Solitude is a location. 
+
+
+### Plots:
+the player is torturing their prisoner
+the player's prisoner has hidden her inheritance
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The inheritance
+Objective: Find out about your prisoner's inheritance
+Tasks: 
+ Go to the marsh south of solitude.
+ Find the prisoner's inheritance
+
+
+### End
+----------------------------------------
+### Background:
+Isran is the player's leader in the Dawnguard. Isran is a character.  Isran is present in Tamriel.
+Tamriel is a continent. Tamriel is a location.  Tamriel is connected to Castle Volkihar.
+Castle Volkihar is a castle belonging to Harkon in Tamriel. Castle Volkihar is a location. 
+Harkon is the lord of the vampires. Harkon is a character.  Harkon is present in Castle Volkihar.
+
+
+### Plots:
+Isran will address the player's fellow Dawnguard members before leaving for Castle Volkihar: the Dawnguard has gained the upper hand in the fight against the vampires
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The vampire's castle
+Objective: Find harkon's castle
+Tasks: 
+ Find castle volkihar
+
+
+### End
+----------------------------------------
+### Background:
+Gilgondorin is a keeper of local legends. Gilgondorin is a character.  Gilgondorin is present in Niben Bay.
+Niben Bay is a sea bay. Niben Bay is a location.  Niben Bay is connected to Bawnwatch Camp.
+Bawnwatch Camp is a camp on the shore of Niben Bay. Bawnwatch Camp is a location. 
+Watchman is a harmless, sad ghost of a sailor. Watchman is a character.  Watchman is present in Niben Bay.
+
+
+### Plots:
+the player asked Gilgondorin about the Watchman
+Gilgondorin pinpoints where the Watchman appears on the player's map
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The watchman's watch
+Objective: Return the watchman's watch to him
+Tasks: 
+ Return to the watchman
+
+
+### End
+----------------------------------------
+### Background:
+Martin is the player's friend. Martin is a character. 
+Jauffre is the male Grandmaster of the Blades. Jauffre is a character. 
+Tiber Septim is the legendary male Emperor who ascended to divinity. Tiber Septim is a character. 
+
+
+### Plots:
+Martin needs the blood of a Divine for the ritual to open the portal to Camoran's Paradise in addition to the first item, the blood of a Daedra
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The ritual
+Objective: Find a way to get the blood of a daedra
+Tasks: 
+ Collect a daedra heart
+
+
+### End
+----------------------------------------
+### Background:
+Danica Pure-Spring is a priestess of Kynareth. Danica Pure-Spring is a character.  Danica Pure-Spring is present in the Gildergreen in Whiterun. Danica Pure-Spring is present in Whiterun.
+the Gildergreen in Whiterun is the Gildergreen in Whiterun. the Gildergreen in Whiterun is a location.  the Gildergreen in Whiterun is connected to Orphan Rock.
+Whiterun is a city. Whiterun is a location. 
+Orphan Rock is a Hagraven nest. Orphan Rock is a location. 
+Kynareth is the goddess of nature. Kynareth is a character.  Kynareth is present in the Gildergreen in Whiterun.
+Gildergreen is the big holy tree of Kynareth that died. Gildergreen is a object.  Gildergreen is held by Danica Pure-Spring.
+Eldergleam is the ancient parent tree of the Gildergreen. Eldergleam is a object.  Eldergleam is held by Danica Pure-Spring.
+Nettlebane is a weapon that can cut the Eldergleam. Nettlebane is a object.  Nettlebane is held by Danica Pure-Spring.
+
+
+### Plots:
+disciples of Kynareth used to travel far to hear the winds of Kynareth in the Gildergreen's branches
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A new beginning
+Objective: Save the eldergleam from the hagravens
+Tasks: 
+ Cut down the eldergleam
+
+
+### End
+----------------------------------------
+### Background:
+Boethia is the dark warrior, one of the Daedric Princes. Boethia is a character. 
+one of Boethia's realms in Oblivion is one of Boethia's realms in Oblivion. one of Boethia's realms in Oblivion is a location. 
+Tournament of Ten Bloods is Boethia's tournament. Tournament of Ten Bloods is a object.  Tournament of Ten Bloods is held by Boethia. Tournament of Ten Bloods is present in one of Boethia's realms in Oblivion.
+
+
+### Plots:
+the player has summoned Boethia: the player is not a worshiper of Boethia
+Boethia shall open a portal for the player to one of his realms in Oblivion
+if the player fails the Tournament of Ten Bloods, the player's soul belongs to Boethia
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The tournament of ten bloods
+Objective: Participate in the tournament of ten bloods
+Tasks: 
+ Defeat the nine other contestants of the tournament of ten bloods
+
+
+### End
+----------------------------------------
+### Background:
+Commander Vale is a military leader. Commander Vale is a character. 
+Ossean Wastes is a large desert. Ossean Wastes is a location. 
+Guardian is a powerful spirit. Guardian is a character.  Guardian is present in Ossean Wastes.
+Alchemist is a man who has Ordrak's Heart. Alchemist is a character.  Alchemist is present in Ossean Wastes.
+Ordrak's Heart is a destructive artifact. Ordrak's Heart is a object.  Ordrak's Heart is held by Commander Vale. Ordrak's Heart is present in Ossean Wastes.
+
+
+### Plots:
+Ordrak's Heart wreaking havoc
+the Guardian wants the player to go to the Ossean Wastes
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Ordrak's Heart
+Objective: Go to the ossean wastes and destroy ordrak's heart
+Tasks: 
+ Attain the heart of ordrak.
+
+
+### End
+----------------------------------------
+### Background:
+Degrodel is a pompous wizard. Degrodel is a character.  Degrodel is present in Baldur's Gate.
+Baldur's Gate is a major city. Baldur's Gate is a location. 
+the art collector's estate, west of the fairgrounds, in the center of Baldur's Gate is the art collector's estate, west of the fairgrounds, in the center of Baldur's Gate. the art collector's estate, west of the fairgrounds, in the center of Baldur's Gate is a location. 
+Ramazith is a male wizard. Ramazith is a character.  Ramazith is present in the art collector's estate, west of the fairgrounds, in the center of Baldur's Gate.
+Helm of Balduran is the helmet of a legendary hero. Helm of Balduran is a object.  Helm of Balduran is held by Degrodel. Helm of Balduran is present in the art collector's estate, west of the fairgrounds, in the center of Baldur's Gate.
+
+
+### Plots:
+mercenaries were petrified while trying to break into the home of Ramazith: Ramazith sold the mercenaries to an art collector
+Degrodel gives the player six scrolls of stone to flesh to unpetrify the mercenaries
+one of the mercenaries has the Helm of Balduran
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The collector's collection
+Objective: Return the helm of balduran to ramazith
+Tasks: 
+ Find ramazith
+
+
+### End
+----------------------------------------
+### Background:
+Oengul War-Anvil is the stressed castle blacksmith. Oengul War-Anvil is a character.  Oengul War-Anvil is present in Windhelm.
+Windhelm is a city. Windhelm is a location.  Windhelm is connected to Cronvangr Cave.
+Cronvangr Cave is a cave. Cronvangr Cave is a location. 
+High Queen Freydis is a queen who ruled over Windhelm in the Second Era, had a legendary sword. High Queen Freydis is a character.  High Queen Freydis is present in Cronvangr Cave.
+
+
+### Plots:
+the player asked Oengul War-Anvil whether he is the castle blacksmith
+Oengul War-Anvil is working an a sword: the Jarl of Windhelm wants it to look like High Queen Freydis' sword
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The queen's sword
+Objective: Find high queen freydis' sword
+Tasks: 
+ Find high queen freydis' sword.
+
+
+### End
+----------------------------------------
+### Background:
+Nazir is a fellow assassin. Nazir is a character.  Nazir is present in Dawnstar.
+Dawnstar is a mining town. Dawnstar is a location. 
+Beitild is an angry and desperate female mine owner. Beitild is a character.  Beitild is present in Dawnstar.
+
+
+### Plots:
+Beitild and her ex-husband run competing mining operations in Dawnstar
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A rock and a hard place
+Objective: Steal a valuable rock from beitild's mine
+Tasks: 
+ Get into beitild's mine.
+ Get out of beitild's mine with a valuable rock
+
+
+### End
+----------------------------------------
+### Background:
+Carl is a cartographer. Carl is a character.  Carl is present in Spruced Hills.
+Spruced Hills is a region of taiga hills. Spruced Hills is a location. 
+
+
+### Plots:
+Carl wants knowledge
+the player is a friend of Carl
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Carl's quest
+Objective: Bring a map of spruced hills to carl
+Tasks: 
+ Find a map of spruced hills
+
+
+### End
+----------------------------------------
+### Background:
+Senna is an angry priestess of Dibella. Senna is a character.  Senna is present in Temple of Dibella.
+Temple of Dibella is a temple to Dibella. Temple of Dibella is a location. 
+Sam is the player's friend, a man. Sam is a character.  Sam is present in Temple of Dibella.
+Dibella is the goddess of love and compassion. Dibella is a character.  Dibella is present in Temple of Dibella.
+
+
+### Plots:
+Senna wakes the player up: the player does not remember anything about coming to the Temple of Dibella, blathering about marriage or a goat, and throwing trash all over the Temple of Dibella
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A goat for dibella
+Objective: Bring a goat to the temple of dibella
+Tasks: 
+ Talk to sam
+
+
+### End
+----------------------------------------
+### Background:
+Calcelmo is a stressful man, and the most recognized scholar on the Dwemer in all of Tamriel. Calcelmo is a character.  Calcelmo is present in Nchuand-Zel.
+Nchuand-Zel is Calcelmo's excavation site. Nchuand-Zel is a location. 
+Nimhe, Poisoned One is [Enemy] a giant, poisonous spider. Nimhe, Poisoned One is a character.  Nimhe, Poisoned One is present in Nchuand-Zel.
+
+
+### Plots:
+the player asked Calcelmo to let the player inside his Dwemer museum: the Dwemer museum is a private place where Calcelmo can catalog his research
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The poisoned one
+Objective: Defeat nimhe, poisoned one
+Tasks: 
+ Kill nimhe, poisoned one
+
+
+### End
+----------------------------------------
+### Background:
+Farthing is a 5 year old girl. Farthing is a character.  Farthing is present in the village.
+the village is the village. the village is a location. 
+the woods is the woods. the woods is a location. 
+Farthing's doll is Farthing's doll. Farthing's doll is a object.  Farthing's doll is held by Farthing. Farthing's doll is present in the woods.
+
+
+### Plots:
+the gatekeeper won't let Farthing go and get her doll
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Farthing's doll
+Objective: Find farthing's doll
+Tasks: 
+ Get to the woods.
+ Find farthing's doll
+
+
+### End
+----------------------------------------
+### Background:
+Frida is an elderly female alchemist. Frida is a character.  Frida is present in Dawnstar.
+Dawnstar is a town. Dawnstar is a location.  Dawnstar is connected to Shrouded Grove.
+Shrouded Grove is a cave. Shrouded Grove is a location. 
+Ring of Pure Mixtures is a ring that boosts an alchemist's talents. Ring of Pure Mixtures is a object.  Ring of Pure Mixtures is held by Frida.
+
+
+### Plots:
+Frida's husband died while searching for the Ring of Pure Mixtures
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A ring to rule them all
+Objective: Find the ring of pure mixtures
+Tasks: 
+ Get the ring of pure mixtures from shrouded grove
+
+
+### End
+----------------------------------------
+### Background:
+Noster Eagle-Eye is a former scout of the Imperial Legion. Noster Eagle-Eye is a character. 
+
+
+### Plots:
+Noster Eagle-Eye tracked down all the places in the wilds that were causing people trouble: he lost his helmet in one of the old caves
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Lost helmet
+Objective: Find noster eagle-eye's helmet
+Tasks: 
+ Look for noster eagle-eye's helmet in the wilds.
+
+
+### End
+----------------------------------------
+### Background:
+Firebead Elvenhair is a mage. Firebead Elvenhair is a character. 
+the inner grounds is the inner grounds. the inner grounds is a location. 
+Tethtoril is a male sage. Tethtoril is a character.  Tethtoril is present in the inner grounds.
+identify scroll is a special scroll. identify scroll is a object.  identify scroll is held by Firebead Elvenhair. identify scroll is present in the inner grounds.
+
+
+### Plots:
+Firebead Elvenhair left his identify scroll to Tethtoril
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The mage's scroll
+Objective: Retrieve firebead elvenhair's identify scroll
+Tasks: 
+ Find firebead elvenhair's identify scroll.
+
+
+### End
+----------------------------------------
+### Background:
+Gorm is the worried housecarl of Idgrod. Gorm is a character.  Gorm is present in Morthal.
+Morthal is a town. Morthal is a location.  Morthal is connected to Solitude.
+Solitude is a city. Solitude is a location. 
+Idgrod is the noblewoman who rules over Morthal, and a seer. Idgrod is a character.  Idgrod is present in Morthal.
+Captain Aldis is a male official. Captain Aldis is a character.  Captain Aldis is present in Solitude.
+
+
+### Plots:
+Idgrod gets lost in her visions
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Idgrod's vision
+Objective: Find captain aldis
+Tasks: 
+ Find captain aldis.
+
+
+### End
+----------------------------------------
+### Background:
+Barthel Gernand is a settler, and a family man. Barthel Gernand is a character.  Barthel Gernand is present in Crestbridge Camp.
+Crestbridge Camp is Barthel Gernand's camp. Crestbridge Camp is a location. 
+Mirisa is Barthel Gernand's female guide. Mirisa is a character.  Mirisa is present in Crestbridge Camp.
+
+
+### Plots:
+Barthel Gernand and his family ran into goblin war parties northwest of here while starting to build a new settlement
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A new settlement
+Objective: Help barthel gernand and his family build a new settlement
+Tasks: 
+ Find barthel gernand's camp
+
+
+### End
+----------------------------------------
+### Background:
+Sorine Jurard is a fellow member of the Dawnguard. Sorine Jurard is a character. 
+Florentius is a former priest of Arkay, and an eccentric, yet trustworthy man. Florentius is a character. 
+Isran is a man who never got along with Florentius, and the leader of the Dawnguard. Isran is a character. 
+Gunmar is a male member of the Dawnguard. Gunmar is a character. 
+Arkay is the god of death. Arkay is a character. 
+
+
+### Plots:
+Gunmar and Sorine Jurard think that the Dawnguard are going to need Florentius to help against the vampires
+Florentius had regular contact with the Vigilants: Isran has kept track of the Vigilants
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The Dawnguard
+Objective: Find out where florentius is
+Tasks: 
+ Find florentius
+
+
+### End
+----------------------------------------
+### Background:
+Paul is a cleric. Paul is a character.  Paul is present in Villager's temple.
+Villager's temple is Villager's temple. Villager's temple is a location.  Villager's temple is connected to ancient ruins, and deep within the Overworld itself.
+ancient ruins, and deep within the Overworld itself is ancient ruins, and deep within the Overworld itself. ancient ruins, and deep within the Overworld itself is a location. 
+diamonds is diamonds. diamonds is a object.  diamonds is held by Paul.
+
+
+### Plots:
+Paul wants comfort
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A place to call home
+Objective: Find a place to call home
+Tasks: 
+ Find a place to call home.
+
+
+### End
+----------------------------------------
+### Background:
+Burz gro-Khash is the player's rude superior in the Fighters Guild. Burz gro-Khash is a character.  Burz gro-Khash is present in Harlun's Watch.
+Harlun's Watch is a village. Harlun's Watch is a location. 
+Drarana Thelis is a woman. Drarana Thelis is a character.  Drarana Thelis is present in Harlun's Watch.
+
+
+### Plots:
+Burz gro-Khash has one more contract for the player
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: An ungrateful client
+Objective: Defeat drarana thelis
+Tasks: 
+ Proceed to harlun's watch.
+
+
+### End
+----------------------------------------
+### Background:
+Garan Marethi is a fellow vampire. Garan Marethi is a character. 
+Harkon is the Lord of the player and Garan Marethi's vampire clan. Harkon is a character. 
+Bloodstone Chalice is a chalice that is able to increase the potency of the player's vampiric powers. Bloodstone Chalice is a object.  Bloodstone Chalice is held by Garan Marethi. Bloodstone Chalice is held by Harkon.
+
+
+### Plots:
+the player told Garan Marethi that Harkon wants the Bloodstone Chalice without addressing Harkon properly as Lord Harkon
+Harkon has owned the Bloodstone Chalice for a long time
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The bloodstone chalice
+Objective: Give the bloodstone chalice to garan marethi
+Tasks: 
+ Kill harkon
+
+
+### End
+----------------------------------------
+### Background:
+Korgan Bloodaxe is a powerful warrior. Korgan Bloodaxe is a character. 
+a tomb over in the lower crypts of the Graveyard District is a tomb over in the lower crypts of the Graveyard District. a tomb over in the lower crypts of the Graveyard District is a location. 
+Book of Kaza is a grimoire. Book of Kaza is a object.  Book of Kaza is held by Korgan Bloodaxe. Book of Kaza is present in a tomb over in the lower crypts of the Graveyard District.
+
+
+### Plots:
+Korgan Bloodaxe and his fellows were on a mission to obtain the Book of Kaza for a book collector
+Korgan Bloodaxe and his fellows had a heated argument: only Korgan Bloodaxe remained alive afterwards
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The tomb of kaza
+Objective: Obtain the book of kaza
+Tasks: 
+ Go to the graveyard district.
+ Find a tomb over in the lower crypts of the graveyard district.
+
+
+### End
+----------------------------------------
+### Background:
+Lord Taldimut is a man from Zeryphesh. Lord Taldimut is a character. 
+Zeryphesh is a city sieged by Ezrohir. Zeryphesh is a location.  Zeryphesh is connected to Whispering Cave.
+Whispering Cave is a deep cave. Whispering Cave is a location. 
+Golden Gear is important object related to defense of Zeryphesh. Golden Gear is a object.  Golden Gear is held by Lord Taldimut. Golden Gear is present in Whispering Cave.
+
+
+### Plots:
+Lord Taldimut has been studying the crests
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Defending Zeryphesh
+Objective: Steal golden gear from whispers
+Tasks: 
+ Steal golden gear from whispers
+
+
+### End
+----------------------------------------
+### Background:
+Kate is a woman who used to be a pirate queen. Kate is a character.  Kate is present in Seaside Settlement.
+Seaside Settlement is a coastal village. Seaside Settlement is a location.  Seaside Settlement is connected to a beach not that far away from Seaside Settlement.
+a beach not that far away from Seaside Settlement is a beach not that far away from Seaside Settlement. a beach not that far away from Seaside Settlement is a location. 
+
+
+### Plots:
+Kate wants serenity
+Kate has heard that the player helps people
+Kate gives the player a map that points the player to the buried treasure
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The pirate queen
+Objective: Bring the buried treasure to kate
+Tasks: 
+ Go to a beach not that far away from Seaside Settlement.
+ Find the buried treasure
+
+
+### End
+----------------------------------------
+### Background:
+Danno is a distressed man who knows the player. Danno is a character.  Danno is present in Trademeet.
+Trademeet is a town. Trademeet is a location.  Trademeet is connected to with the player's mother.
+Wallace is a peddler. Wallace is a character.  Wallace is present in Trademeet.
+Pala is the player's sister, and Danno's crush. Pala is a character.  Pala is present in with the player's mother.
+with the player's mother is with the player's mother. with the player's mother is a location. 
+Mazzy is the player. Mazzy is a character.  Mazzy is present in Trademeet.
+
+
+### Plots:
+Danno bought a love potion from Wallace at the market square: Danno gave Pala the love potion
+Pala drank the love potion and collapsed
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Danno's love potion
+Objective: Find out what happened to pala
+Tasks: 
+ Find pala
+
+
+### End
+----------------------------------------
+### Background:
+Umbacano is a collector of Ayleid artifacts. Umbacano is a character.  Umbacano is present in Umbacano's house.
+Umbacano's house is Umbacano's house. Umbacano's house is a location.  Umbacano's house is connected to Ayleid Ruins.
+Ayleid Ruins is ancient ruins. Ayleid Ruins is a location. 
+ancient statues is ancient statues. ancient statues is a object.  ancient statues is held by Umbacano.
+
+
+### Plots:
+Umbacano has invited the player here to his house: the ancient Ayleid statue that the player recently sold cheap to an anonymous merchant is placed on a table
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Ancient artifacts
+Objective: Return the ancient statues to umbacano
+Tasks: 
+ Go to umbacano's house
+
+
+### End
+----------------------------------------
+### Background:
+Gray Fox is the player's guildmaster in the Thieves Guild. Gray Fox is a character.  Gray Fox is present in Malintus' house.
+Malintus' house is Malintus' house. Malintus' house is a location.  Malintus' house is connected to Bravil.
+Bravil is a city. Bravil is a location. 
+Fathis Aren is a powerful male court wizard. Fathis Aren is a character.  Fathis Aren is present in Bravil.
+Malintus is a fellow member of the Thieves Guild. Malintus is a character.  Malintus is present in Malintus' house.
+Savilla's Stone is a stone that reveals secrets to its fielder. Savilla's Stone is a object.  Savilla's Stone is held by Gray Fox.
+Arrow of Extrication is a small, unique item. Arrow of Extrication is a object.  Arrow of Extrication is held by Gray Fox.
+
+
+### Plots:
+Savilla's Stone has revealed that the Gray Fox needs something special for his plans: the Arrow of Extrication
+the player may kill Fathis Aren, but not in the castle of Bravil
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The arrow of extrication
+Objective: Find the arrow of extrication
+Tasks: 
+ Proceed to bravil.
+
+
+### End
+----------------------------------------
+### Background:
+Eisa Blackthorn is a bandit from Kyr's gang, giving quest via "Eisa's Journal". Eisa Blackthorn is a character.  Eisa Blackthorn is present in Frostmere Crypt.
+Frostmere Crypt is a crypt that contains a whole forest with a big old monument out in the center. Frostmere Crypt is a location. 
+Kyr is a male bandit leader. Kyr is a character.  Kyr is present in Frostmere Crypt.
+Ra'jirr is a tough male bandit. Ra'jirr is a character.  Ra'jirr is present in Frostmere Crypt.
+Pale Lady is a swamp lady who abducts children at night. Pale Lady is a character.  Pale Lady is present in Frostmere Crypt.
+"Eisa's Journal" is Eisa Blackthorn's journal. "Eisa's Journal" is a object.  "Eisa's Journal" is held by Eisa Blackthorn.
+
+
+### Plots:
+Kyr's bandit gang dug up Frostmere Crypt: Kyr took the Pale Blade from the monument within
+Ra'jirr keeps muttering about a Pale Lady, who is going to kill all of Kyr's bandits if they do not return the Pale Blade
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The pale blade
+Objective: Get the pale blade back from the pale lady
+Tasks: 
+ Find your way to the pale lady's lair.
+
+
+### End
+----------------------------------------
+### Background:
+Officer is a military officer working for the Professor. Officer is a character.  Officer is present in Scrapworks.
+Scrapworks is a junkyard. Scrapworks is a location.  Scrapworks is connected to Abandoned Sawmill.
+Abandoned Sawmill is a dysfunct sawmill. Abandoned Sawmill is a location. 
+Professor is a man. Professor is a character.  Professor is present in Scrapworks.
+
+
+### Plots:
+the Professor sent the player after the power source in the Scrapworks: the Officer and his troop are on the same mission
+the Officer sent his troop to the Abandoned Sawmill: he has not heard from them
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A power source
+Objective: Find the power source in the scrapworks
+Tasks: 
+ Find the power source
+
+
+### End
+----------------------------------------
+### Background:
+Lou is a nitwit. Lou is a character. 
+
+
+### Plots:
+Lou wants comfort
+the player is a known villain
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A night of comfort
+Objective: Give comfort to lou
+Tasks: 
+ Sleep with lou.
+
+
+### End
+----------------------------------------
+### Background:
+Modryn Oreyn is the player's superior in the Fighters Guild. Modryn Oreyn is a character.  Modryn Oreyn is present in Bravil.
+Bravil is a city. Bravil is a location. 
+Maglir is a man, and a fellow Fighters Guild member. Maglir is a character.  Maglir is present in Bravil.
+
+
+### Plots:
+the player had to find Maglir before
+Maglir had an easy contract for a local mage in Bravil: he has not reported to the client at all
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A mage's misfortune
+Objective: Find maglir and bring him to the fighters guild
+Tasks: 
+ Go to bravil.
+ Find maglir.
+
+
+### End
+----------------------------------------
+### Background:
+Azzan is the player's superior in the Fighters Guild. Azzan is a character.  Azzan is present in Anvil.
+Anvil is a city. Anvil is a location.  Anvil is connected to Quality Merchandise.
+Quality Merchandise is Norbert Lelles' shop in Anvil. Quality Merchandise is a location. 
+Norbert Lelles is a male merchant. Norbert Lelles is a character.  Norbert Lelles is present in Quality Merchandise.
+
+
+### Plots:
+the player has worked for Azzan before
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A deal with the devil
+Objective: Find out what happened to norbert lelles
+Tasks: 
+ Find out what happened to norbert lelles
+
+
+### End
+----------------------------------------
+### Background:
+Olivia is a responsible child. Olivia is a character.  Olivia is present in a village.
+a village is a village. a village is a location.  a village is connected to jungles.
+jungles is jungles. jungles is a location. 
+
+
+### Plots:
+Olivia wants reputation
+Olivia gives the player seeds that can be used to tame a parrot
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Parrot training
+Objective: Tame a parrot
+Tasks: 
+ Use the seeds to tame a parrot
+
+
+### End
+----------------------------------------
+### Background:
+Malur Seloth is the sly, lazy steward of the Jarl of Winterhold. Malur Seloth is a character.  Malur Seloth is present in College of Winterhold.
+College of Winterhold is a college for mages in Winterhold. College of Winterhold is a location.  College of Winterhold is connected to Frozen Hearth.
+Winterhold is a city. Winterhold is a location.  Winterhold is connected to Frozen Hearth.
+Frozen Hearth is an inn. Frozen Hearth is a location. 
+Nelacar is an old male mage. Nelacar is a character.  Nelacar is present in Frozen Hearth.
+Jarl of Winterhold is the nobleman who rules over Winterhold. Jarl of Winterhold is a character.  Jarl of Winterhold is present in College of Winterhold.
+
+
+### Plots:
+the Jarl of Winterhold thinks that Malur Seloth has some connection with the College of Winterhold: he goes easy on Malur Seloth
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: College of Winterhold
+Objective: Prove malur seloth's guilt
+Tasks: 
+ Find out what malur seloth is hiding
+
+
+### End
+----------------------------------------
+### Background:
+Arch-Mage Traven is the player's guildmaster in the Mages Guild. Arch-Mage Traven is a character.  Arch-Mage Traven is present in Skingrad.
+Skingrad is a city. Skingrad is a location. 
+Count Hassildor is a nobleman who rules over Skingrad. Count Hassildor is a character.  Count Hassildor is present in Skingrad.
+
+
+### Plots:
+Count Hassildor of Skingrad contacted the Council of Mages: he has important information
+Count Hassildor has asked for the player, specifically
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Count Hassildor's request
+Objective: Report to count hassildor
+Tasks: 
+ Go to skingrad
+
+
+### End
+----------------------------------------
+### Background:
+Alvor is a man who saw a dragon flying down from the south. Alvor is a character.  Alvor is present in Riverwood.
+Riverwood is a defenseless village. Riverwood is a location.  Riverwood is connected to Helgen.
+Helgen is a village that was destroyed by a dragon. Helgen is a location.  Helgen is connected to Whiterun.
+Whiterun is a city. Whiterun is a location. 
+Balgruuf is the Jarl of Whiterun. Balgruuf is a character.  Balgruuf is present in Whiterun.
+
+
+### Plots:
+the player told Alvor that there was a dragon in Helgen
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A dragon's quest
+Objective: Find the dragon
+Tasks: 
+ Find the dragon.
+
+
+### End
+----------------------------------------
+### Background:
+Fade is an immortal spirit who covets the remains of the living. Fade is a character.  Fade is present in Sundered Battlefield.
+Sundered Battlefield is an ancient battleground. Sundered Battlefield is a location.  Sundered Battlefield is connected to Cacklespit's Realm.
+Cacklespit's Realm is a hidden realm. Cacklespit's Realm is a location. 
+skulls of famous warriors is skulls of famous warriors. skulls of famous warriors is a object.  skulls of famous warriors is held by Fade.
+
+
+### Plots:
+the player has summoned Fade: the player wants to enter Cacklespit's Realm
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The skulls of famous warriors
+Objective: Obtain the skulls of famous warriors
+Tasks: 
+ Obtain the skulls of famous warriors.
+
+
+### End
+----------------------------------------
+### Background:
+Caleb is a calm man. Caleb is a character.  Caleb is present in a desert village.
+a desert village is a desert village. a desert village is a location.  a desert village is connected to snowy tundras, in frosted rivers.
+snowy tundras, in frosted rivers is snowy tundras, in frosted rivers. snowy tundras, in frosted rivers is a location. 
+
+
+### Plots:
+Caleb wants comfort
+the player is a known villain
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Comfort for caleb
+Objective: Find comfort for caleb
+Tasks: 
+ Find comfort for caleb.
+
+
+### End
+----------------------------------------
+### Background:
+Delon is a frightened man. Delon is a character.  Delon is present in a large city.
+a large city is a large city. a large city is a location.  a large city is connected to Imnesvale.
+Imnesvale is a village. Imnesvale is a location. 
+Minister Lloyd is the male mayor of Imnesvale. Minister Lloyd is a character.  Minister Lloyd is present in Imnesvale.
+Umar is a long-dead evil female witch. Umar is a character.  Umar is present in Imnesvale.
+
+
+### Plots:
+Delon does not have any money
+Delon was sent to find someone who could help his home village Imnesvale: terrible beasts have been seen out in the hills
+Umar herself might have returned
+Minister Lloyd can tell everything else
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Imnesvale's protection
+Objective: Protect Imnesvale from the beasts
+Tasks: 
+ Find out where the beasts came from.
+
+
+### End
+----------------------------------------
+### Background:
+Legate Rikke is the player's commanding officer in the Imperial Legion. Legate Rikke is a character.  Legate Rikke is present in Riften.
+Riften is a city. Riften is a location. 
+Anuriel is the Jarl's corrupt female steward who has secret arrangements with the Thieves Guild. Anuriel is a character.  Anuriel is present in Riften.
+
+
+### Plots:
+the Jarl's men will arrest the player if they find the player in Anuriel's private quarters
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The thieves guild
+Objective: Find the jarl's stolen items
+Tasks: 
+ Find the jarl's stolen items.
+
+
+### End
+----------------------------------------
+### Background:
+Matt is an annoyed villager. Matt is a character.  Matt is present in a village.
+a village is a village. a village is a location. 
+Ender Pearls is spawn Endermites when thrown. Ender Pearls is a object.  Ender Pearls is held by Matt.
+
+
+### Plots:
+Matt wants comfort
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: End
+----------------------------------------
+### Background:
+Feran Sadri is a fellow vampire. Feran Sadri is a character.  Feran Sadri is present in Swindler's Den.
+Swindler's Den is a bandit cave. Swindler's Den is a location.  Swindler's Den is connected to Cragwallow Slope.
+Cragwallow Slope is a cave. Cragwallow Slope is a location. 
+Molag Bal is the god of vampires. Molag Bal is a character.  Molag Bal is present in Swindler's Den.
+
+
+### Plots:
+the rings of blood magic increase the abilities of the player's vampiric powers: Molag Bal supposedly gave the rings to vampires
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The rings of blood magic
+Objective: Find the rings of blood magic
+Tasks: 
+ Find the rings of blood magic
+
+
+### End
+----------------------------------------
+### Background:
+Ralof is a fellow prisoner. Ralof is a character. 
+
+
+### Plots:
+the player and Ralof are making their escape together: the player is a Nord
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The quest related to the above information is as follows.
+Objective: Escape from Helgen
+Tasks: 
+ The player and Ralof must escape from Helgen
+
+
+### End
+----------------------------------------
+### Background:
+Elder Othreloth is a dark elf priest. Elder Othreloth is a character.  Elder Othreloth is present in Temple. Elder Othreloth is present in an Ancestral Tomb beneath the Temple.
+Temple is Temple. Temple is a location.  Temple is connected to Ancestral Tombs.
+Ancestral Tombs is tombs where dark elves inter their dead. Ancestral Tombs is a location. 
+an Ancestral Tomb beneath the Temple is an Ancestral Tomb beneath the Temple. an Ancestral Tomb beneath the Temple is a location. 
+
+
+### Plots:
+Elder Othreloth gives the player a key that opens the door to the Ancestral Tomb
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: Dark elf funeral rites
+Objective: Find a body for the dark elves to inter
+Tasks: 
+ Visit the Ancestral Tomb beneath the Temple.
+
+
+### End
+----------------------------------------
+### Background:
+Flydian is a messenger. Flydian is a character.  Flydian is present in Trademeet.
+Trademeet is a town. Trademeet is a location. 
+High Merchant is the mayor of Trademeet. High Merchant is a character.  High Merchant is present in Trademeet.
+
+
+### Plots:
+Flydian was sent by the High Merchant
+druids are suspected of the animal attacks
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The druids are to blame
+Objective: Prove that the druids are behind the animal attacks
+Tasks: 
+ Find the druids' camp.
+
+
+### End
+----------------------------------------
+### Background:
+Will is a mischievous child. Will is a character. 
+
+
+### Plots:
+Will wants comfort
+the player is an enemy of Will
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A child's comfort
+Objective: Give will a comforting item
+Tasks: 
+ Find a comforting item
+
+
+### End
+----------------------------------------
+### Background:
+Arquen is Speaker for the Black Hand. Arquen is a character.  Arquen is present in Applewatch.
+Applewatch is a farm. Applewatch is a location. 
+Bravil is a city. Bravil is a location. 
+Lucien Lachance is a male Speaker of the Black Hand, who betrayed the Dark Brotherhood for some reason. Lucien Lachance is a character.  Lucien Lachance is present in Applewatch. Lucien Lachance is present in Bravil.
+Night Mother is an immortal female spirit who is revered and worshiped by the Dark Brotherhood. Night Mother is a character.  Night Mother is present in Bravil.
+
+
+### Plots:
+the player is a Silencer of the Dark Brotherhood
+as the player can see, the Black Hand have dealt with Lucien Lachance
+Lucien Lachance tricked the player to kill the Black Hand off: the player killed the Listener and the Listener's successor
+Arquen promotes the player to Speaker from Silencer: the player becomes a member of the Black Hand
+there are only five members of the Black Hand, including the player
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The Black Hand
+Objective: Kill lucien lachance
+Tasks: 
+ Kill lucien lachance.
+
+
+### End
+----------------------------------------
+### Background:
+Lucien Lachance is the player's superior in the Dark Brotherhood, giving quest via "Dead Drop Orders #5". Lucien Lachance is a character. 
+Cyrodiil is a province. Cyrodiil is a location. 
+Morrowind is a province far away from Cyrodiil. Morrowind is a location. 
+Stonewall Shields is a shop in the Market District of the Imperial City. Stonewall Shields is a location.  Stonewall Shields is connected to Imperial City.
+Imperial City is a large city. Imperial City is a location.  Imperial City is connected to Leyawiin.
+Leyawiin is a city. Leyawiin is a location. 
+Alval Uvani is a traveling male Dunmer merchant skilled in Destruction spells, a native of Morrowind. Alval Uvani is a character.  Alval Uvani is present in Cyrodiil. Alval Uvani is present in Morrowind. Alval Uvani is present in Stonewall Shields.
+Shaleez is a dead woman. Shaleez is a character.  Shaleez is present in Cyrodiil.
+"Dead Drop Orders #5" is a note. "Dead Drop Orders #5" is a object.  "Dead Drop Orders #5" is held by Lucien Lachance. "Dead Drop Orders #5" is present in Cyrodiil.
+
+
+### Plots:
+the note is addressed toward the player: the player is the Silence of the Dark Brotherhood
+the player assassinated Shaleez for Lucien Lachance
+Alval Uvani is renting a house in Leyawiin
+Alval Uvani's wife hired the Dark Brotherhood to kill her husband: the Morag Tong of Morrowind can't reach Alval Uvani in Cyrodiil
+Alval Uvani suffers from a rare Dunmer condition, a serious allergy to honey: he would suffer from complete paralyzation after drinking honey-based mead
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The silence of the dark brotherhood
+Objective: Kill alval uvani
+Tasks: 
+ Kill alval uvani.
+
+
+### End
+----------------------------------------
+### Background:
+Calcelmo is a scholar researching the Dwemer, giving quest via "Letter from Calcelmo". Calcelmo is a character. 
+Warmaiden's is a shop. Warmaiden's is a location.  Warmaiden's is connected to Markarth.
+Markarth is a city. Markarth is a location. 
+Dragonborn is the player. Dragonborn is a character.  Dragonborn is present in Markarth.
+"Letter from Calcelmo" is a letter. "Letter from Calcelmo" is a object.  "Letter from Calcelmo" is held by Calcelmo. "Letter from Calcelmo" is present in Warmaiden's.
+
+
+### Plots:
+"Letter from Calcelmo" is addressed toward the player
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The quest related to the above information is as follows.
+Objective: Find the dwemer ruins
+Tasks: 
+ Get to the dwemer ruins.
+
+
+### End
+----------------------------------------
+### Background:
+Orthus Endario is an employee of the East Empire Company. Orthus Endario is a character.  Orthus Endario is present in East Empire Company's rundown offices in Windhelm.
+East Empire Company's rundown offices in Windhelm is East Empire Company's rundown offices in Windhelm. East Empire Company's rundown offices in Windhelm is a location.  East Empire Company's rundown offices in Windhelm is connected to Vvardenfell.
+Hammerfell is a realm. Hammerfell is a location.  Hammerfell is connected to Vvardenfell.
+Vvardenfell is an island. Vvardenfell is a location.  Vvardenfell is connected to Windhelm.
+Windhelm is a city. Windhelm is a location. 
+Suvaris Atheron is a female dark elf, and the meticulous overseer of the Shatter-Shields' shipping operation. Suvaris Atheron is a character.  Suvaris Atheron is present in Windhelm.
+
+
+### Plots:
+pirates have been raiding all along the coast, from Hammerfell to Vvardenfell: the East Empire Company's security forces are limited, and all the mercenaries are tied up in the war
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The dark heart of the east empire company
+Objective: Take over the shatter-shields' shipping operation
+Tasks: 
+ Find out where the shatter-shields are based
+
+
+### End
+----------------------------------------
+### Background:
+Tonilia is a fence, and a fellow member of the Thieves Guild. Tonilia is a character. 
+Ri'saad is the male leader of the caravans that travel across the realm. Ri'saad is a character. 
+Moon Sugar is an illegal substance. Moon Sugar is a object.  Moon Sugar is held by Tonilia. Moon Sugar is held by Ri'saad.
+
+
+### Plots:
+the caravans are notorious for transporting illegal substances
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The caravan
+Objective: Steal the moon sugar from the caravans
+Tasks: 
+ Find the caravan that is transporting moon sugar
+
+
+### End
+----------------------------------------
+### Background:
+Viarmo is the welcoming headmaster of the Bards College. Viarmo is a character.  Viarmo is present in Bards College.
+Bards College is a college for bards. Bards College is a location. 
+Skyrim is a realm. Skyrim is a location.  Skyrim is connected to Dead Men's Respite.
+Dead Men's Respite is a tomb. Dead Men's Respite is a location. 
+Jarl Elisif is the local ruler, a noblewoman. Jarl Elisif is a character.  Jarl Elisif is present in Skyrim.
+King Olaf is a long-dead king. King Olaf is a character.  King Olaf is present in Dead Men's Respite.
+King Olaf's Verse is a part of the Poetic Edda, the living history of Skyrim, a poem dealing with King Olaf. King Olaf's Verse is a object.  King Olaf's Verse is held by Viarmo. King Olaf's Verse is held by King Olaf.
+
+
+### Plots:
+Jarl Elisif has forbidden the burning of King Olaf, a festival put on by the Bards College: to convince Jarl Elisif change her mind, Viarmo wants to read King Olaf's Verse
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: King olaf's verse
+Objective: Find king olaf's verse
+Tasks: 
+ The quest related to the above information is as follows.
+
+### Quest:
+Title: King olaf's verse
+Objective: Find king olaf's verse
+Tasks: 
+ Obtain a copy of king olaf's verse from the bards college
+
+
+### End
+----------------------------------------
+### Background:
+Professor Stoker is the player's ally. Professor Stoker is a character.  Professor Stoker is present in Imperial Camp.
+Imperial Camp is Imperial Camp. Imperial Camp is a location.  Imperial Camp is connected to Great Door.
+Great Door is a door that leads to the Clockwork Core. Great Door is a location.  Great Door is connected to Scrapworks.
+Scrapworks is a dangerous junkyard. Scrapworks is a location. 
+Alchemist is the player's male enemy. Alchemist is a character.  Alchemist is present in Imperial Camp.
+Clockwork Core is a terrible machine. Clockwork Core is a object.  Clockwork Core is held by Professor Stoker.
+
+
+### Plots:
+the Alchemist came through the Imperial Camp an hour ago: he went through the Great Door and sealed it behind him
+the Great Door leads to the Clockwork Core
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The great door
+Objective: Open the great door
+Tasks: 
+ Open the great door
+
+
+### End
+----------------------------------------
+### Background:
+Froki is a worshiper of Kyne. Froki is a character. 
+Kyne is the ancient goddess of humankind and beasts, who teaches us to respect the beasts. Kyne is a character. 
+Kyne's Sacred Trials is an ancient tradition, and a test to prove yourself to Kyne. Kyne's Sacred Trials is a object.  Kyne's Sacred Trials is held by Froki. Kyne's Sacred Trials is held by Kyne.
+
+
+### Plots:
+Froki thinks that the Divines are impostor gods
+Froki gives the player the symbol of the wolf, the crab and the skeever: this will compel the guardian to appear when the player reaches the guardian's lair
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The guardian
+Objective: Find the guardian
+Tasks: 
+ Take the symbol of the wolf, the crab and the skeever to kyne's sacred trials
+
+
+### End
+----------------------------------------
+### Background:
+Velwyn is a hasty man. Velwyn is a character.  Velwyn is present in Anvil.
+Anvil is a city. Anvil is a location. 
+
+
+### Plots:
+Benirus Manor belonged to Velwyn's grandfather: Velwyn is selling Benirus Manor because he has pressing matters elsewhere
+the player gets the key to the front door and the deed of ownership after buying Benirus Manor
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A new home
+Objective: Buy benirus manor
+Tasks: 
+ Find velwyn in anvil.
+
+
+### End
+----------------------------------------
+### Background:
+Dengeir of Stuhn is a descendant of Vighar. Dengeir of Stuhn is a character.  Dengeir of Stuhn is present in Falkreath.
+Falkreath is a town. Falkreath is a location.  Falkreath is connected to Bloodlet Throne.
+Bloodlet Throne is a nest of vampires. Bloodlet Throne is a location. 
+Vighar is a male vampire. Vighar is a character.  Vighar is present in Bloodlet Throne.
+
+
+### Plots:
+there is an open grave in Falkreath graveyard: Vighar broke free from the grave
+Dengeir of Stuhn's family is entrusted with keeping Vighar buried: somebody stole the wardstone that kept Vighar in the grave
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The grave of vighar
+Objective: Kill vighar
+Tasks: 
+ Find bloodlet throne.
+
+
+### End
+----------------------------------------
+### Background:
+Arniel Gane is a scholar fascinated by the Dwemer. Arniel Gane is a character.  Arniel Gane is present in Skyrim.
+Skyrim is a realm. Skyrim is a location. 
+Skyrim ruins is Skyrim ruins. Skyrim ruins is a location. 
+Dwarven Convectors, Convectors is Dwemer machines that were used to purify gems. Dwarven Convectors, Convectors is a object.  Dwarven Convectors, Convectors is held by Arniel Gane. Dwarven Convectors, Convectors is present in Skyrim ruins.
+
+
+### Plots:
+the Dwemer's greatest achievement has also been their greatest mystery: their instant, unexplainable disappearance
+Arniel Gane tries to find out what happened to the Dwemer though experimentation
+the player brought Arniel Gane Dwemer parts and a soul gem before
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The dwemer's greatest achievement has also been their greatest mystery: their instant, unexplainable disappearance
+Objective: Find out what happened to the dwemer
+Tasks: 
+ Find dwarven convectors
+
+
+### End
+----------------------------------------
+### Background:
+Keldorn is a member of the Most Noble Order of the Radiant Heart. Keldorn is a character.  Keldorn is present in Keldorn's estate in this district.
+Keldorn's estate in this district is Keldorn's estate in this district. Keldorn's estate in this district is a location. 
+
+
+### Plots:
+Keldorn's tasks keep him away from home
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The most noble order of the radiant heart
+Objective: Deliver a message to keldorn
+Tasks: 
+ Find keldorn's estate in this district.
+
+
+### End
+----------------------------------------
+### Background:
+Onmund is a man the player knows. Onmund is a character. 
+Enthir is a shady merchant. Enthir is a character. 
+
+
+### Plots:
+Onmund traded Enthir his amulet, but now Onmund wants his amulet back
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The amulet
+Objective: Recover onmund's amulet
+Tasks: 
+ Find enithir's house.
+
+
+### End
+----------------------------------------
+### Background:
+Hofgrir Horse-Crusher is the man with the the strongest arms in all of Skyrim. Hofgrir Horse-Crusher is a character.  Hofgrir Horse-Crusher is present in out in the wilderness.
+out in the wilderness is out in the wilderness. out in the wilderness is a location.  out in the wilderness is connected to Skyrim.
+Skyrim is a realm. Skyrim is a location. 
+
+
+### Plots:
+rules for the fistfight: no weapons, no tricks, no magic
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The strongest arms
+Objective: Prove to hofgrir horse-crusher that you are the strongest
+Tasks: 
+ Go to out in the wilderness
+
+
+### End
+----------------------------------------
+### Background:
+Talon Yarryl is priest of Talos. Talon Yarryl is a character.  Talon Yarryl is present in the Government District.
+the slums at night is the slums at night. the slums at night is a location.  the slums at night is connected to the Government District.
+Talos is the evil god of thunder and destruction. Talos is a character.  Talos is present in the Government District.
+Travin is a male thief. Travin is a character.  Travin is present in the slums at night.
+Stormherald Nallabir is a male priest of Talos. Stormherald Nallabir is a character.  Stormherald Nallabir is present in the Government District.
+the Government District is the Government District. the Government District is a location. 
+Dawn Ring is a ring. Dawn Ring is a object.  Dawn Ring is held by Talon Yarryl.
+
+
+### Plots:
+Stormherald Nallabir lost this past tenday's theological debate to a a representative of the Lathanderian temple in the Government District
+the temple of Talos hired Travin to steal a Dawn Ring from the Lathanderian temple
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A ring of dawn
+Objective: Prove the theological superiority of the temple of talos
+Tasks: 
+ Find a way to prove the theological superiority of the temple of talos
+
+
+### End
+----------------------------------------
+### Background:
+Sanguine is the lord of revelry, one of the Daedric Princes. Sanguine is a character.  Sanguine is present in Castle Leyawiin.
+Castle Leyawiin is a castle in Leyawiin. Castle Leyawiin is a location. 
+Countess is the somber noblewoman who rules over Castle Leyawiin. Countess is a character.  Countess is present in Castle Leyawiin.
+
+
+### Plots:
+the player has summoned Sanguine
+the Countess is hosting a dinner party
+Sanguine gives the player a spell: the player should use it on the Countess and her guests to liven up the dinner party
+the dinner party is invitation only
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The countess's party
+Objective: Liven up the countess's party
+Tasks: 
+ Proceed to castle leyawiin
+
+
+### End
+----------------------------------------
+### Background:
+Mashal is a Zeraphi scout. Mashal is a character.  Mashal is present in Dead Shoals.
+Dead Shoals is a deep crevice below Mashal. Dead Shoals is a location. 
+Crab King is the king of the crabs. Crab King is a character.  Crab King is present in Dead Shoals.
+
+
+### Plots:
+the player is a friend of the Zeraphi
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The crab king
+Objective: Find the crab king
+Tasks: 
+ Find the crab king
+
+
+### End
+----------------------------------------
+### Background:
+Giran is a young boy. Giran is a character.  Giran is present in the circus tent.
+the circus tent is the circus tent. the circus tent is a location. 
+
+
+### Plots:
+guards do not let anyone in the circus tent
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The circus tent
+Objective: Find a way into the circus tent
+Tasks: 
+ Find a way into the circus tent.
+
+
+### End
+----------------------------------------
+### Background:
+Sorex Vinius is an innkeeper. Sorex Vinius is a character. 
+Solitude is a city. Solitude is a location. 
+Blue Palace is a palace in Solitude. Blue Palace is a location. 
+Jarl Elisif the Fair is the noblewoman who rules over Solitude, who recently lost her husband, the king. Jarl Elisif the Fair is a character.  Jarl Elisif the Fair is present in Blue Palace. Jarl Elisif the Fair is present in Solitude.
+Falk Firebeard is Jarl Elisif the Fair's male steward. Falk Firebeard is a character.  Falk Firebeard is present in Blue Palace.
+Stros M'Kai Rum is special drum. Stros M'Kai Rum is a object.  Stros M'Kai Rum is held by Sorex Vinius. Stros M'Kai Rum is held by Jarl Elisif the Fair.
+
+
+### Plots:
+the player asked Sorex Vinius who is in charge of Solitude
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The drummer boy
+Objective: Deliver the drum to jarl elisif the fair
+Tasks: 
+ Deliver the drum to jarl elisif the fair
+
+
+### End
+----------------------------------------
+### Background:
+Astrid is the player's guildmaster in the Dark Brotherhood. Astrid is a character.  Astrid is present in Dark Brotherhood Sanctuary.
+Dark Brotherhood Sanctuary is the headquarters of the Dark Brotherhood. Dark Brotherhood Sanctuary is a location.  Dark Brotherhood Sanctuary is connected to in the southwest reaches of the realm, in the pine forest.
+in the southwest reaches of the realm, in the pine forest is in the southwest reaches of the realm, in the pine forest. in the southwest reaches of the realm, in the pine forest is a location. 
+"Silence, my brother." is the passphrase to the Dark Brotherhood Sanctuary. "Silence, my brother." is a object.  "Silence, my brother." is held by Astrid.
+
+
+### Plots:
+Astrid officially welcomes the player to the Dark Brotherhood
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: An offer you can't refuse
+Objective: Help the dark brotherhood
+Tasks: 
+ Kill the player's target
+
+
+### End
+----------------------------------------
+### Background:
+Modryn Oreyn is the player's superior in the Fighters Guild. Modryn Oreyn is a character. 
+Tamriel is a continent. Tamriel is a location.  Tamriel is connected to Blackwood Company hall.
+Blackwood Company hall is the headquarters of the Blackwood Company. Blackwood Company hall is a location. 
+Ri'Zakar is the leader of the Blackwood Company, and a battle-hardened mercenary who's spent time all over Tamriel. Ri'Zakar is a character.  Ri'Zakar is present in Blackwood Company hall.
+Hist Tree is an abominable tree, and the source of the Fighters Guild's problems. Hist Tree is a object.  Hist Tree is held by Modryn Oreyn. Hist Tree is present in Blackwood Company hall.
+
+
+### Plots:
+Modryn Oreyn has one final duty for the player to perform
+everyone is in danger, as long as the Blackwood Company has access to the sap from the Hist Tree
+Ri'Zakar will have the Hist Tree well guarded
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A final duty
+Objective: Get rid of the Hist Tree
+Tasks: 
+ Get to the Blackwood Company hall.
+ Kill ri'Zakar.
+
+
+### End
+----------------------------------------
+### Background:
+Lara is the player's tutor in the player's duties to Lathander. Lara is a character. 
+Lathander, the Morninglord is a good god of dawn. Lathander, the Morninglord is a character. 
+
+
+### Plots:
+the player is a cleric of Lathander, and one of Lathander's favored
+Lara will send the player someone who needs the guidance of Lathander
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The morninglord's mission
+Objective: Give a message of hope to a follower of lathander
+Tasks: 
+ Find a follower of lathander
+
+
+### End
+----------------------------------------
+### Background:
+Astrid is the player's guildleader in the Dark Brotherhood. Astrid is a character. 
+Markarth is a city. Markarth is a location.  Markarth is connected to The Hag's Cure.
+The Hag's Cure is an apothecary in Markarth. The Hag's Cure is a location. 
+Muiri is the apothecary's female assistant. Muiri is a character.  Muiri is present in The Hag's Cure.
+Black Sacrament is a ritual to employ the services of the Dark Brotherhood. Black Sacrament is a object.  Black Sacrament is held by Astrid. Black Sacrament is present in The Hag's Cure.
+
+
+### Plots:
+Muiri has performed the Black Sacrament
+do whatever Muiri wishes, be professional, represent the Dark Brotherhood well, and get the job done
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The black sacrament
+Objective: Perform the black sacrament
+Tasks: 
+ Get a black sacrament from astrid
+
+
+### End
+----------------------------------------
+### Background:
+Eola is a female cannibal. Eola is a character.  Eola is present in Markarth.
+Markarth is a city. Markarth is a location.  Markarth is connected to Reachcliff Cave.
+Reachcliff Cave is a tomb filled with undead. Reachcliff Cave is a location. 
+Namira, Lady of Decay is the goddess of cannibals. Namira, Lady of Decay is a character.  Namira, Lady of Decay is present in Reachcliff Cave.
+
+
+### Plots:
+Eola assumes that the player is a cannibal
+Eola has been eating the dead people of Markarth
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: The undead feast
+Objective: Kill namira, lady of decay
+Tasks: 
+ Find reachcliff cave.
+ Kill namira, lady of decay.
+
+
+### End
+----------------------------------------
+### Background:
+Guardian of the Wild is one of the Guardians, drained by the Alchemist. Guardian of the Wild is a character.  Guardian of the Wild is present in Ossean Wastes.
+Ossean Wastes is a desert. Ossean Wastes is a location.  Ossean Wastes is connected to Enclave.
+Enclave is a settlement. Enclave is a location. 
+Alchemist is a male pawn of the Netherim. Alchemist is a character.  Alchemist is present in Ossean Wastes.
+Commander Vale is a female military leader. Commander Vale is a character.  Commander Vale is present in Enclave.
+
+
+### Plots:
+Guardian of the Wild fears that the Alchemist uses the power of the Guardians to open a portal to the Nether Realm, plunging the world into eternal chaos
+
+The quest related to the above information is as follows.
+
+### Quest:
+Title: A pact with the guardian
+Objective: Find the alchemist's lair
+Tasks: 
+ Find the alchemist's lair.
+
+
+### End
+----------------------------------------
